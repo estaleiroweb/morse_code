@@ -1,0 +1,328 @@
+{
+	"letters": {
+		"A": {
+			"code": ".-",
+			"descr": "A"
+		},
+		"B": {
+			"code": "-...",
+			"descr": "B"
+		},
+		"C": {
+			"code": "-.-.",
+			"descr": "C"
+		},
+		"D": {
+			"code": "-..",
+			"descr": "D"
+		},
+		"E": {
+			"code": ".",
+			"descr": "E"
+		},
+		"F": {
+			"code": "..-.",
+			"descr": "F"
+		},
+		"G": {
+			"code": "--.",
+			"descr": "G"
+		},
+		"H": {
+			"code": "....",
+			"descr": "H"
+		},
+		"I": {
+			"code": "..",
+			"descr": "I"
+		},
+		"J": {
+			"code": ".---",
+			"descr": "J"
+		},
+		"K": {
+			"code": "-.-",
+			"descr": "K"
+		},
+		"L": {
+			"code": ".-..",
+			"descr": "L"
+		},
+		"M": {
+			"code": "--",
+			"descr": "M"
+		},
+		"N": {
+			"code": "-.",
+			"descr": "N"
+		},
+		"O": {
+			"code": "---",
+			"descr": "O"
+		},
+		"P": {
+			"code": ".--.",
+			"descr": "P"
+		},
+		"Q": {
+			"code": "--.-",
+			"descr": "Q"
+		},
+		"R": {
+			"code": ".-.",
+			"descr": "R"
+		},
+		"S": {
+			"code": "...",
+			"descr": "S"
+		},
+		"T": {
+			"code": "-",
+			"descr": "T"
+		},
+		"U": {
+			"code": "..-",
+			"descr": "U"
+		},
+		"V": {
+			"code": "...-",
+			"descr": "V"
+		},
+		"W": {
+			"code": ".--",
+			"descr": "W"
+		},
+		"X": {
+			"code": "-..-",
+			"descr": "X"
+		},
+		"Y": {
+			"code": "-.--",
+			"descr": "Y"
+		},
+		"Z": {
+			"code": "--..",
+			"descr": "Z"
+		},
+		"1": {
+			"code": "·----",
+			"descr": "1"
+		},
+		"2": {
+			"code": "··---",
+			"descr": "2"
+		},
+		"3": {
+			"code": "···--",
+			"descr": "3"
+		},
+		"4": {
+			"code": "····-",
+			"descr": "4"
+		},
+		"5": {
+			"code": "·····",
+			"descr": "5"
+		},
+		"6": {
+			"code": "-····",
+			"descr": "6"
+		},
+		"7": {
+			"code": "--···",
+			"descr": "7"
+		},
+		"8": {
+			"code": "---··",
+			"descr": "8"
+		},
+		"9": {
+			"code": "----·",
+			"descr": "9"
+		},
+		"0": {
+			"code": "-----",
+			"descr": "0"
+		},
+
+		"ä": {
+			"code": "·-·-",
+			"descr": "æ/ä"
+		},
+		"à": {
+			"code": "·--·-",
+			"descr": "å/à"
+		},
+		"ç": {
+			"code": "-·-··",
+			"descr": "ĉ/ç"
+		},
+		"ch": {
+			"code": "----",
+			"descr": "/ch"
+		},
+		"ð": {
+			"code": "··--·",
+			"descr": "/ð"
+		},
+		"è": {
+			"code": "·-··-",
+			"descr": "/è"
+		},
+		"é": {
+			"code": "··-··",
+			"descr": "/é"
+		},
+		"ĝ": {
+			"code": "--·-·",
+			"descr": "/ĝ"
+		},
+		"ĥ": {
+			"code": "-·--·",
+			"descr": "/ĥ"
+		},
+		"ĵ": {
+			"code": "·---·",
+			"descr": "/ĵ"
+		},
+		"ñ": {
+			"code": "--·--",
+			"descr": "/ñ"
+		},
+		"ö": {
+			"code": "---·",
+			"descr": "ø/ö"
+		},
+		"ŝ": {
+			"code": "···-·",
+			"descr": "/ŝ"
+		},
+		"þ": {
+			"code": "·--··",
+			"descr": "/þ"
+		},
+		"ü": {
+			"code": "··--",
+			"descr": "ŭ/ü"
+		},
+
+		".": {
+			"code": "·-·-·-",
+			"descr": "Ponto"
+		},
+		",": {
+			"code": "--··--",
+			"descr": "Vírgula"
+		},
+		"?": {
+			"code": "··--··",
+			"descr": "Interrogação"
+		},
+		"'": {
+			"code": "·----·",
+			"descr": "Apóstrofo"
+		},
+		"!": {
+			"code": "-·-·--",
+			"descr": "Exclamação"
+		},
+		"/": {
+			"code": "-··-·",
+			"descr": "Barra"
+		},
+		"(": {
+			"code": "-·--·",
+			"descr": "Parênteses"
+		},
+		")": {
+			"code": "-·--·-",
+			"descr": "Parênteses"
+		},
+		"&": {
+			"code": "·-···",
+			"descr": "E comercial"
+		},
+		":": {
+			"code": "---···",
+			"descr": "Dois pontos"
+		},
+		";": {
+			"code": "-·-·-·",
+			"descr": "Ponto e vírgula"
+		},
+		"=": {
+			"code": "-···-",
+			"descr": "Igual"
+		},
+		"-": {
+			"code": "-····-",
+			"descr": "Hífen"
+		},
+		"_": {
+			"code": "··--·-",
+			"descr": "Linha baixa"
+		},
+		"$": {
+			"code": "···-··-",
+			"descr": "Cifrão"
+		},
+		"@": {
+			"code": "·--·-·",
+			"descr": "Arroba"
+		},
+		"\"": {
+			"code": "·-··-·",
+			"descr": "Aspas"
+		}
+	},
+	"special": {
+		"AR": {
+			"code": "·-·-·",
+			"descr": "Parar (fim da mensagem): Frequentemente escrito como +"
+		},
+		"AS": {
+			"code": "·-···",
+			"descr": "Espere (por 10 segundos): Responde com C (sim). AS2 significa espere 2 minutos, AS5 5 minutos, etc. Para pausas de 10 minutos ou mais, use QRX (veja código Q)"
+		},
+		"BT": {
+			"code": "-···-",
+			"descr": "Separador dentro da mensagem: Frequentemente escrito como =. Na prática, indistinguível para TV, e algumas vezes escrito assim"
+		},
+		"CL": {
+			"code": "-·-··-··",
+			"descr": "Saindo do ar: \"Livre\""
+		},
+		"DO": {
+			"code": "-··---",
+			"descr": "Troque por código wabun: "
+		},
+		"K": {
+			"code": "-·-",
+			"descr": "Convite geral para transmitir: Frequentemente enviado após CQ"
+		},
+		"KN": {
+			"code": "-·--·",
+			"descr": "Convite específico para transmitir: Frequentemente indica \"de volta para você\""
+		},
+		"R": {
+			"code": "·-·",
+			"descr": "Recebido e entendido: \"Roger\""
+		},
+		"SK": {
+			"code": "···-·-",
+			"descr": "Fim (fim do contato): Na prática, indistinguível de VA, e algumas vezes escrito assim"
+		},
+		"SOS": {
+			"code": "···---···",
+			"descr": "Mensagem de sério perigo e pedido por ajuda urgente.: Não usada ao menos em iminência de perigo para a vida ou para embarcações no mar. Veja SOS"
+		},
+		"E": {
+			"code": "·······",
+			"descr": "Erro, corrigir seguintes palavras (seis ou mais pontos em sequência)"
+		},
+		"E2": {
+			"code": "· · ·",
+			"descr": "Erro (facilmente identificada por ritmo \"quebrado\")"
+		}
+	}
+}
