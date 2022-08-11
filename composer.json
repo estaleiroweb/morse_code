@@ -1,7 +1,13 @@
 {
     "name": "estaleiroweb/morse_code",
     "description": "Morse Code functions",
-    "type": "library",
+    "type": "project",
     "version": "1.0.0",
-    "license": "MIT"
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "estaleiroweb",
+            "email": "helbert@estaleiroweb.com.br"
+        }
+    ]
 }
